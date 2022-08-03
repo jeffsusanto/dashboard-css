@@ -27,7 +27,7 @@ html, body{
 .header {
     grid-column: 2/3;
     background-color: #83c5bfb2;
-    max-height: 200px;
+    max-height: 220px;
 }
 
 .sidebar{
